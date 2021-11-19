@@ -7,6 +7,7 @@ input:focus {
     text-align: left;
 }
 
+
 body form {
     margin: 20px 20px;
     border: 2px solid steelblue;
@@ -94,6 +95,16 @@ body table {
 
 #links ul li a:hover {
     color: grey;
+}
+.section{
+    display: flex;
+}
+.economy {
+    display: flex;
+}
+
+.economy-section {
+flex: 0.33;
 }
 
 
