@@ -96,9 +96,7 @@ body table {
 #links ul li a:hover {
     color: grey;
 }
-.section{
-    display: flex;
-}
+
 .economy {
     display: flex;
 }
