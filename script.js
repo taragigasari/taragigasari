@@ -1,4 +1,10 @@
 
-function darkOrLightMode() {
-     document.body.classList.toggle("dark-mode");
-}
+$(document).ready(function(){
+    $("nav").click(function(){
+        $(this).hide();
+    });
+});
+
+
+
+
