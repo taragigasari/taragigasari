@@ -22,4 +22,4 @@ function calculator($input){
     return $input02;
 }
 
-echo "<br><br><br><a  href='index.html'>click to return to calculator</a>";
+echo "<br><a  href='index.html'>click to return to calculator</a>";
